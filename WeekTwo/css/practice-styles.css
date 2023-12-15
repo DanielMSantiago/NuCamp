@@ -1,0 +1,31 @@
+body {
+    background: #b4eeca;
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+    font: 32px Garamond, Helvetica, serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+.menu {
+    text-align: center;
+    border: solid red;
+}
+
+table {
+    margin: auto;
+}
+
+label {
+    display: block;
+}
+
+#submit-btn {
+    display: block;
+}
